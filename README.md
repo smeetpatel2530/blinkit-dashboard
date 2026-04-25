@@ -89,7 +89,7 @@ This dashboard is a hands-on application of data visualization and analytics. It
 ├── dashboard.pbix   # Power BI dashboard file  
 ├── data/            # Sample data used  
 └── README.md        # Project documentation  
-
+```
 ---
 ## 📌 Data Source & Credits
 
